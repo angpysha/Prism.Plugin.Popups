@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package>
+  <metadata>
+    <id>Prism.Plugins.Popup.Angpysha</id>
+    <version>7.2.1047-angpysha</version>
+    <title>Prism.Plugins.Popup</title>
+    <authors>Andrii Petrovskyi</authors>
+    <owners>Dan Siegel</owners>
+    <projectUrl>https://github.com/dansiegel/Prism.Plugin.Popups</projectUrl>
+    <description>The Popups plugin provides an extremely lightweight framework for implementing Popup Pages using the Rg.Plugin.Popup package with Prism.Forms. </description>
+    <releaseNotes>Support for fixed Rg.Popup</releaseNotes>
+    <copyright>Copyright 2020 Andrii Petrovskyi</copyright>
+    <dependencies>
+      <dependency id="Rg.Plugins.Popup.Angpysha" version="2.0.0.6" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="src\Prism.Plugin.Popups\bin\Release\**\Prism.Plugins.Popup*" target="lib"/>
+  </files>
+</package>

@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Prism.Plugins.Popup.Angpysha</id>
-    <version>7.2.1047-angpysha</version>
+    <version>8.0.1456-angpysha</version>
     <title>Prism.Plugins.Popup</title>
     <authors>Andrii Petrovskyi</authors>
     <owners>Dan Siegel</owners>
@@ -11,7 +11,7 @@
     <releaseNotes>Support for fixed Rg.Popup</releaseNotes>
     <copyright>Copyright 2020 Andrii Petrovskyi</copyright>
     <dependencies>
-      <dependency id="Rg.Plugins.Popup.Angpysha" version="2.0.0.6" />
+      <dependency id="Rg.Plugins.Popup.Angpysha" version="2.0.0.7-angpysha" />
     </dependencies>
   </metadata>
   <files>
